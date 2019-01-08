@@ -2,6 +2,9 @@
 """
 
 astrous spatial paramid plus
+
+this file create by StrangeAI Authors
+All Rights Reserved Respectively
 """
 import torch.nn as nn
 import torch

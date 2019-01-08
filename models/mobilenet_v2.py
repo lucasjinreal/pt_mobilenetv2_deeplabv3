@@ -11,6 +11,9 @@ out_h = (in_h + 2*pad_h - filter_h)/stride + 1
 
 so, 224 -> (3*3 2) -> 111
 
+this file create by StrangeAI Authors
+All Rights Reserved Respectively
+
 """
 import torch
 from torch import nn

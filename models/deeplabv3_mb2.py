@@ -1,6 +1,9 @@
 """
 
 model combined mobilenetv2 with deeplab3
+
+this file create by StrangeAI Authors
+All Rights Reserved Respectively
 """
 import torch
 import torch.nn as nn
