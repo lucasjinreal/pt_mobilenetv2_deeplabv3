@@ -1,0 +1,6 @@
+deeplabv3_mobilenetv2_cityscapes/
+deeplabv3_mobilenetv2_cityscapes_no_weighting/
+deeplabv3_mobilenetv2_cityscapes_no_weighting_255_ignore/
+deeplabv3_mobilenetv2_cityscapes_with_trans/
+deeplabv3_mobilenetv2_cityscapes_with_trans_512x1024/
+deeplabv3_mobilenetv2_mgc/
